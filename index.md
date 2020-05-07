@@ -1,1 +1,5 @@
-Hello Sumos
+# Hello Sumos
+
+My name is Simon Morley, I'm an experienced software / CTO based in London UK. 
+
+Im currently available for freelance work. If you'd like to talk about your tech, you can reach me at: simon@sumo.dev
