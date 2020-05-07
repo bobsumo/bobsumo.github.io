@@ -1,3 +1,7 @@
+---
+title: Simon Morley
+---
+
 # Hello Sumos
 
 My name is Simon Morley, I'm an experienced software / CTO based in London UK. 
